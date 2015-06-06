@@ -24,7 +24,9 @@ by comparing it to a tree diagram you get the gist
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the resault is that we get a commit of the merged files with all it's extra work into the code and yet we have the option to retrace out steps and fix bugs individuali on each branch from previous commits of that branch.
+the diagram just help visualize it.
 
-
-What are the pros and cons of Git?€™s automatic merging vs. always doing merges
+What are the pros and cons of Git?â‚¬â„¢s automatic merging vs. always doing merges
 manually?
+
